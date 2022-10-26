@@ -7,15 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		80E92C0429087BF200B442D5 /* Financial-Sample.csv in Resources */ = {isa = PBXBuildFile; fileRef = 80E92C0329087BF200B442D5 /* Financial-Sample.csv */; };
+		80E92C082908809300B442D5 /* fruit.csv in Resources */ = {isa = PBXBuildFile; fileRef = 80E92C072908809300B442D5 /* fruit.csv */; };
+		80E92C0C2908966C00B442D5 /* Book1.csv in Resources */ = {isa = PBXBuildFile; fileRef = 80E92C0B2908966C00B442D5 /* Book1.csv */; };
+		80E92C0E2908967C00B442D5 /* TestingBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E92C0D2908967C00B442D5 /* TestingBook.swift */; };
+		80E92C142908A82000B442D5 /* SkiResortMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E92C132908A82000B442D5 /* SkiResortMain.swift */; };
+		80E92C162908AB0C00B442D5 /* ski-resort-data-testing.csv in Resources */ = {isa = PBXBuildFile; fileRef = 80E92C152908AB0C00B442D5 /* ski-resort-data-testing.csv */; };
+		80E92C182908D42800B442D5 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E92C172908D42800B442D5 /* SearchView.swift */; };
 		80FB947629087730004A88C2 /* ski_resortApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FB947529087730004A88C2 /* ski_resortApp.swift */; };
 		80FB947829087730004A88C2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FB947729087730004A88C2 /* ContentView.swift */; };
 		80FB947A29087735004A88C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80FB947929087735004A88C2 /* Assets.xcassets */; };
 		80FB947D29087735004A88C2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80FB947C29087735004A88C2 /* Preview Assets.xcassets */; };
 		80FB947F29087735004A88C2 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FB947E29087735004A88C2 /* Persistence.swift */; };
 		80FB948229087735004A88C2 /* ski_resort.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 80FB948029087735004A88C2 /* ski_resort.xcdatamodeld */; };
+		80FB948A29087776004A88C2 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FB948929087776004A88C2 /* HomeScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		80E92C0329087BF200B442D5 /* Financial-Sample.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Financial-Sample.csv"; sourceTree = "<group>"; };
+		80E92C0529087F8600B442D5 /* Financial Sample 3.numbers */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Financial Sample 3.numbers"; sourceTree = "<group>"; };
+		80E92C0629087FD400B442D5 /* Financial Sample.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Financial Sample.xlsx"; sourceTree = "<group>"; };
+		80E92C072908809300B442D5 /* fruit.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fruit.csv; sourceTree = "<group>"; };
+		80E92C0B2908966C00B442D5 /* Book1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Book1.csv; sourceTree = "<group>"; };
+		80E92C0D2908967C00B442D5 /* TestingBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingBook.swift; sourceTree = "<group>"; };
+		80E92C132908A82000B442D5 /* SkiResortMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkiResortMain.swift; sourceTree = "<group>"; };
+		80E92C152908AB0C00B442D5 /* ski-resort-data-testing.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "ski-resort-data-testing.csv"; sourceTree = "<group>"; };
+		80E92C172908D42800B442D5 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		80FB947229087730004A88C2 /* ski-resort.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ski-resort.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		80FB947529087730004A88C2 /* ski_resortApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ski_resortApp.swift; sourceTree = "<group>"; };
 		80FB947729087730004A88C2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -23,6 +40,7 @@
 		80FB947C29087735004A88C2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		80FB947E29087735004A88C2 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		80FB948129087735004A88C2 /* ski_resort.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ski_resort.xcdatamodel; sourceTree = "<group>"; };
+		80FB948929087776004A88C2 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +73,7 @@
 		80FB947429087730004A88C2 /* ski-resort */ = {
 			isa = PBXGroup;
 			children = (
+				80FB948829087753004A88C2 /* Views */,
 				80FB947529087730004A88C2 /* ski_resortApp.swift */,
 				80FB947729087730004A88C2 /* ContentView.swift */,
 				80FB947929087735004A88C2 /* Assets.xcassets */,
@@ -71,6 +90,23 @@
 				80FB947C29087735004A88C2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		80FB948829087753004A88C2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				80FB948929087776004A88C2 /* HomeScreen.swift */,
+				80E92C0329087BF200B442D5 /* Financial-Sample.csv */,
+				80E92C0629087FD400B442D5 /* Financial Sample.xlsx */,
+				80E92C072908809300B442D5 /* fruit.csv */,
+				80E92C0529087F8600B442D5 /* Financial Sample 3.numbers */,
+				80E92C0B2908966C00B442D5 /* Book1.csv */,
+				80E92C0D2908967C00B442D5 /* TestingBook.swift */,
+				80E92C132908A82000B442D5 /* SkiResortMain.swift */,
+				80E92C152908AB0C00B442D5 /* ski-resort-data-testing.csv */,
+				80E92C172908D42800B442D5 /* SearchView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -132,7 +168,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				80FB947D29087735004A88C2 /* Preview Assets.xcassets in Resources */,
+				80E92C0C2908966C00B442D5 /* Book1.csv in Resources */,
+				80E92C082908809300B442D5 /* fruit.csv in Resources */,
 				80FB947A29087735004A88C2 /* Assets.xcassets in Resources */,
+				80E92C162908AB0C00B442D5 /* ski-resort-data-testing.csv in Resources */,
+				80E92C0429087BF200B442D5 /* Financial-Sample.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,8 +184,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				80FB948229087735004A88C2 /* ski_resort.xcdatamodeld in Sources */,
+				80FB948A29087776004A88C2 /* HomeScreen.swift in Sources */,
 				80FB947F29087735004A88C2 /* Persistence.swift in Sources */,
+				80E92C0E2908967C00B442D5 /* TestingBook.swift in Sources */,
+				80E92C182908D42800B442D5 /* SearchView.swift in Sources */,
 				80FB947829087730004A88C2 /* ContentView.swift in Sources */,
+				80E92C142908A82000B442D5 /* SkiResortMain.swift in Sources */,
 				80FB947629087730004A88C2 /* ski_resortApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

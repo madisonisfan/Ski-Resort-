@@ -1,0 +1,5 @@
+//name, elevation, price, moguls, park
+Vail,3000,200,true,true
+Beaver,2000,250,true,false
+Mammoth,2400,100,false,false
+Snowmass,1000,50,false,true
