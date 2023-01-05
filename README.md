@@ -1,4 +1,4 @@
-# Ski-Resort
+# Ski-Resort - iOS app
 
 
 This project was just an idea I was playing around with. 
